@@ -37,6 +37,10 @@ The script performs the following actions:
 7. Sets department and job title fields.
 8. Requires the user to change their password at first logon.
 
+## Lab Screenshot
+
+![Bulk User Provisioning Walkthrough](https://raw.githubusercontent.com/cokerjohnny70-gif/AD-Bulk-User-Provisioning-Lab/main/bulk-users.png)
+
 ## Example CSV Format
 
 ```csv
@@ -44,3 +48,4 @@ FirstName,LastName,Department,JobTitle
 Johnny,Young,IT,IT Support Analyst
 Sarah,Johnson,HR,HR Coordinator
 Michael,Brown,Finance,Financial Analyst
+
